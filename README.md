@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YRKR
+- 👀 I’m interested in coding and developing apps
+- 🌱 I’m currently learning Java and doing MSc in Computer Science
+- 📫 You can reach me through yampallyrkr@gmail.com
